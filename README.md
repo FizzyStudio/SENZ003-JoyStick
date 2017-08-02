@@ -28,7 +28,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
 
 <table>
     <tr>
-        <th width=100%, bgcolor=bule>Pin X</th>
+        <th bgcolor=bule>Pin X</th>
     </tr>
     <tr>
         <th>S——Analog OUT</th>
@@ -36,7 +36,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
         <th>VCC——VCC</th>
     </tr>
     <tr>
-        <th width=100%, bgcolor=bule>Pin Y</th>
+        <th bgcolor=bule>Pin Y</th>
     </tr>
     <tr>
         <th>S——Analog OUT</th>
@@ -44,7 +44,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
         <th>VCC——VCC</th>
     </tr>
     <tr>
-        <th width=100%, bgcolor=bule>Pin Z</th>
+        <th bgcolor=bule>Pin Z</th>
     </tr>
     <tr>
         <th>DATA——Digital OUT</th>
