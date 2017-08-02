@@ -27,7 +27,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
 ![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003_2.png "pin")  
 
 <table>
-    <tr>
+    <tr with=100%>
         <th bgcolor=bule>Pin X</th>
     </tr>
     <tr>
