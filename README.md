@@ -27,55 +27,64 @@ It also has a switch that is connected to a digital pin. This joystick module ca
 ![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003_2.png "pin")  
 
 <table>
-        <tr>Pin X</tr>
-        <tr>
-            <th>S——Analog OUT</th>
-            <th>GND——GND</th>
-            <th>VCC——VCC</th>
-        </tr>
-        <tr>Pin Y</tr>
-        <tr>
-            <th>S——Analog OUT</th>
-            <th>GND——GND</th>
-            <th>VCC——VCC</th>
-        </tr>
-        <tr>Pin Z</tr>
-        <tr>
-            <th>DATA——Digital OUT</th>
-            <th>VCC——VCC</th>
-            <th>GND——VCC</th>
-        </tr>
-    </table>
-
-
-<table>
-  <tr>
-    <th width=10%, bgcolor=yellow >参数</th>
-    <th width=40%, bgcolor=yellow>详细解释</th>
-    <th width="50%", bgcolor=yellow>备注</th>
-  </tr>
-  <tr>
-    <td bgcolor=#eeeeee> -l </td>
-    <td> use a long listing format  </td>
-    <td> 以长列表方式显示（显示出文件/文件夹详细信息）  </td>
-  </tr>
-  <tr>
-    <td bgcolor=#00FF00>-t </td>
-    <td> sort by modification time </td>
-    <td> 按照修改时间排序（默认最近被修改的文件/文件夹排在最前面） </td>
-  <tr>
-    <td bgcolor=rgb(0,10,0)>-r </td>
-    <td> reverse order while sorting </td>
-    <td>  逆序排列 </td>
-  </tr>
+    <tr>
+        <th width=100%, bgcolor=bule>Pin X</th>
+    </tr>
+    <tr>
+        <th>S——Analog OUT</th>
+        <th>GND——GND</th>
+        <th>VCC——VCC</th>
+    </tr>
+    <tr>
+        <th width=100%, bgcolor=bule>Pin Y</th>
+    </tr>
+    <tr>
+        <th>S——Analog OUT</th>
+        <th>GND——GND</th>
+        <th>VCC——VCC</th>
+    </tr>
+    <tr>
+        <th width=100%, bgcolor=bule>Pin Z</th>
+    </tr>
+    <tr>
+        <th>DATA——Digital OUT</th>
+        <th>VCC——VCC</th>
+        <th>GND——VCC</th>
+    </tr>
 </table>
-
 
 ### Tutorial
 
 #### Connection Diagram
 
 ![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003_3.png "Connection") 
+
+<table>
+    <tr>
+        <th width=100%, bgcolor=bule>Pin X</th>
+    </tr>
+    <tr>
+        <th>S——A1</th>
+        <th>GND——GND</th>
+        <th>VCC——VCC</th>
+    </tr>
+    <tr>
+        <th width=100%, bgcolor=bule>Pin Y</th>
+    </tr>
+    <tr>
+        <th>S——A0</th>
+        <th>GND——GND</th>
+        <th>VCC——VCC</th>
+    </tr>
+    <tr>
+        <th width=100%, bgcolor=bule>Pin Z</th>
+    </tr>
+    <tr>
+        <th>DATA——D3</th>
+        <th>VCC——VCC</th>
+        <th>GND——VCC</th>
+    </tr>
+</table>
 
 #### Sample Code
 
