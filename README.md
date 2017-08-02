@@ -6,7 +6,7 @@
 
 > For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/README_CN.md)
 
-![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003.jpg "SENZ003") 
+![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003.JPG "SENZ003") 
 
 ### Introduction
 
@@ -24,28 +24,22 @@ It also has a switch that is connected to a digital pin. This joystick module ca
 
 ### PinOut
 
-![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003_2.JPG "pin")  
+![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003_2.png "pin")  
 
 <table>
-        <tr>
-            <th>Pin X</th>
-        </tr>
+        <tr>Pin X</tr>
         <tr>
             <th>S——Analog OUT</th>
             <th>GND——GND</th>
             <th>VCC——VCC</th>
         </tr>
-        <tr>
-            <th>Pin Y</th>
-        </tr>
+        <tr>Pin Y</tr>
         <tr>
             <th>S——Analog OUT</th>
             <th>GND——GND</th>
             <th>VCC——VCC</th>
         </tr>
-        <tr>
-            <th>Pin Z</th>
-        </tr>
+        <tr>Pin Z</tr>
         <tr>
             <th>DATA——Digital OUT</th>
             <th>VCC——VCC</th>
