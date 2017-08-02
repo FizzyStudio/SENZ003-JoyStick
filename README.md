@@ -61,7 +61,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
 
 <table>
     <tr>
-        <th width=100%, bgcolor=bule>Pin X</th>
+        <th bgcolor=bule>Pin X</th>
     </tr>
     <tr>
         <th>S——A1</th>
@@ -69,7 +69,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
         <th>VCC——VCC</th>
     </tr>
     <tr>
-        <th width=100%, bgcolor=bule>Pin Y</th>
+        <th bgcolor=bule>Pin Y</th>
     </tr>
     <tr>
         <th>S——A0</th>
@@ -77,7 +77,7 @@ It also has a switch that is connected to a digital pin. This joystick module ca
         <th>VCC——VCC</th>
     </tr>
     <tr>
-        <th width=100%, bgcolor=bule>Pin Z</th>
+        <th bgcolor=bule>Pin Z</th>
     </tr>
     <tr>
         <th>DATA——D3</th>
@@ -132,25 +132,3 @@ It also has a switch that is connected to a digital pin. This joystick module ca
     }
 
 ### More
-
-
-| 水果        | 价格    |  数量  |
-| --------   | -----:   | :----: |
-| 香蕉        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |
-
-
-| 水果        | 价格    |  数量  |
-| --------   | -----:   | :----: |
-| 香蕉        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |
-
-
-|              水果              |
-| --------   | -----:   | :----: |
-| 香蕉        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |
-
