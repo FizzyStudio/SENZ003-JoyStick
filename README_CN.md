@@ -6,7 +6,7 @@
 
 > `中文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/README_CN.md).
 
-![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003.jpg "SENZ003")  
+![](https://github.com/FizzyStudio/SENZ003-JoyStick/blob/master/pic/SENZ003.JPG "SENZ003") 
 
 ### 产品介绍
 
